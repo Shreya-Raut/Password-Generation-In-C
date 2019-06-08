@@ -106,7 +106,7 @@ void generate_password(int n, string p)
 // Driver code 
 int main() 
 { 
-	string input_string = "geek@2018"; 
+	string input_string = "abc@abc"; 
 	srand(time(NULL)); 
 
 	// srand function set Seed for rand(). 
